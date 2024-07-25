@@ -75,6 +75,3 @@ After testing, remember to delete the SageMaker endpoint to avoid additional cha
 [S3 Bucket Creation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html) <br>
 [SageMaker SKLearn Estimator](https://sagemaker.readthedocs.io/en/stable/frameworks/sklearn/using_sklearn.html) <br>
 [SageMaker Endpoint Deployment](https://sagemaker.readthedocs.io/en/stable/frameworks/sklearn/using_sklearn.html)
-
-## Acknowledgments
-This project was created as part of an End-to-end ML Deployment tutorial by [Krish Naik](https://www.youtube.com/@krishnaik06)
